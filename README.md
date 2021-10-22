@@ -1,4 +1,4 @@
-# Cart demo
+# Cart demo -local
 
 [![gcr.io](https://img.shields.io/badge/gcr.io-stable-orange?style=flat-square)](https://console.cloud.google.com/gcr/images/vmwarecloudadvocacy/GLOBAL/acmeshop-cart@sha256:96ca8cf4f2c538883c754dbacf488966b2113b904c0291a0b99c2c53f51a9233/details?tab=info)
 
